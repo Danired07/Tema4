@@ -6,8 +6,9 @@ Laboratorio 4
 
 ---
 
-* Estudiante: **José Alberto Morera Guzmán**
-* Carné: **B85431**
+* Estudiante: **Daniel Quesada Valverde**
+* Carné: **B65592**
 * Grupo: **1**
 ---
 
+Aqui hice esto, allá hice aquello. Cambios, no resultados.
